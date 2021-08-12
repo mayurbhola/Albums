@@ -20,4 +20,6 @@
 * Data/Source
   * Can use DataBindings
   * Can add pagination
+  * Can implement navigation component
 * Can implement dependency injection
+* For better architectural approch can separate modules like network operation module which handles api call
