@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Albums {JPM} [Code Exercise]</string>
+    <string name="no_album_msg">Oops! Albums are still building! Better luck next time :)</string>
+</resources>
