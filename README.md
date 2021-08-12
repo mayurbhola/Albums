@@ -12,7 +12,7 @@
 
 #### Recommendations for future improvements:
 * Gradle
-  * Manage multiple variant like release, prod, stagging, qa
+  * Manage multiple variant like release, prod, staging, qa
   * Manage Gradle libraries versions handling by using gradle extension file by defining values
   * Manage Signing configuration and can handle separate signing build per variant
 * Project
@@ -22,4 +22,4 @@
   * Can add pagination
   * Can implement navigation component
 * Can implement dependency injection
-* For better architectural approch can separate modules like network operation module which handles api call
+* For better architectural approach can separate modules like network operation module which handles api call
